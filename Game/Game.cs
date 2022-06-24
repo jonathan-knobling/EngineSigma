@@ -11,6 +11,7 @@ public class Game : GameManager
         base.Update(args);
     }
 
+    
     //gets called directly after the window is rendered
     protected override void Render(FrameEventArgs args)
     {
