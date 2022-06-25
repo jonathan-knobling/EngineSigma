@@ -24,3 +24,9 @@ C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSi
 C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\App.baml
 C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
 C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\Theme\CloseButtonTheme.baml
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\EngineSigma.Editor_MarkupCompile.lref
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\ProjectsView.baml
