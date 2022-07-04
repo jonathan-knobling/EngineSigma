@@ -30,3 +30,8 @@ C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSi
 C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\EngineSigma.Editor_MarkupCompile.lref
 C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
 C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\FeaturesView.g.cs
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\MVVM\View\FeaturesView.baml
+C:\Users\benec\Documents\0 - Coding\0 - Projects\0 - Github\EngineSigma\EngineSigma.Editor\obj\Debug\net6.0-windows\Theme\ProjectListTheme.baml

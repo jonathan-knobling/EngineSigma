@@ -2,8 +2,5 @@
 
 public class HomeViewModel
 {
-    public HomeViewModel()
-    {
-        
-    }
+
 }
