@@ -10,5 +10,6 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("fonts/raleway-variablefont_wght.ttf")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("fonts/robotomono-variablefont_wght.ttf")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("fonts/ubuntu-medium.ttf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("fonts/ubuntu-bold.ttf")]
 
 
